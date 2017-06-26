@@ -1,5 +1,5 @@
 Controlla gli ultimi aggiornamenti!
 
-Collaboratori: 
+Collaboratori: Giulia Orzo, Francesco Zanti
 BRAND URL: https://ctgsassuolo.it
 
