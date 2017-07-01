@@ -23,4 +23,4 @@
 Link <b>"ISSUE"</b>: <a href="https://github.com/FrancescoZanti/Brand-Identity-CTG-Sassuolo-DEV/issues" target="blank">https://github.com/FrancescoZanti/Brand-Identity-CTG-Sassuolo-DEV/issues</a>
 
 
-Ver 1.0
+Ver 1.0.1
