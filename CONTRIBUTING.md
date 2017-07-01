@@ -20,5 +20,7 @@
 
 <h4> Grazie per il tuo contributo! </h4>
 
+Link <b>"ISSUE"</b>: <a href="https://github.com/FrancescoZanti/Brand-Identity-CTG-Sassuolo-DEV/issues" target="blank">https://github.com/FrancescoZanti/Brand-Identity-CTG-Sassuolo-DEV/issues</a>
+
 
 Ver 1.0
