@@ -1,6 +1,6 @@
-Controlla gli ultimi aggiornamenti!
+Controlla gli ultimi aggiornamenti! 
 
-Collaboratori: Giulia Orzo, Francesco Zanti
+Collaboratori: Giulia Orzo, Luca Scacchetti, Francesco Zanti
 
 Sviluppato dal Gruppo Comunicazione - CTG Sassuolo
 BRAND URL: https://ctgsassuolo.it
@@ -61,3 +61,6 @@ Capitoli:
 7.1 Uso della firma 🔵
 7.2 Colore 🔵
 7.3 Font 🔵
+
+
+Ver 1.2
