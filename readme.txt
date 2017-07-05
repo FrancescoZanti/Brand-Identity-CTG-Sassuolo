@@ -33,8 +33,8 @@ Capitoli:
 	
 3. Colori 			 	🔵
 
-3.1 Palette Primaria 	🔵
-3.2 Palette Secondaria 	🔵
+3.1 Palette Pantone 	🔵
+3.2 Palette CMYK		🔵
 
 4. Tipografia 			🔴
 	
@@ -63,4 +63,4 @@ Capitoli:
 7.3 Font 				🔵
 
 
-Ver 1.2
+Ver 1.3
